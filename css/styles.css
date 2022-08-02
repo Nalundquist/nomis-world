@@ -1,0 +1,18 @@
+h1 {
+  color: greenyellow
+}
+
+h2 {
+  font-size: 45px;
+  font-family: Courier-New;
+}
+
+ol {
+  text-align: left;
+  font-style: bold;
+}
+
+p {
+  color: purple;
+  font-family: Helvetica;
+}
